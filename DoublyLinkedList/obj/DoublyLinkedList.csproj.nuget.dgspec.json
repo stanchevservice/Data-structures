@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vasko\\source\\repos\\DataStructures\\DoublyLinkedList\\DoublyLinkedList.csproj": {}
+    "D:\\Git Lab\\Data-structures\\DoublyLinkedList\\DoublyLinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vasko\\source\\repos\\DataStructures\\DoublyLinkedList\\DoublyLinkedList.csproj": {
+    "D:\\Git Lab\\Data-structures\\DoublyLinkedList\\DoublyLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vasko\\source\\repos\\DataStructures\\DoublyLinkedList\\DoublyLinkedList.csproj",
+        "projectUniqueName": "D:\\Git Lab\\Data-structures\\DoublyLinkedList\\DoublyLinkedList.csproj",
         "projectName": "DoublyLinkedList",
-        "projectPath": "C:\\Users\\Vasko\\source\\repos\\DataStructures\\DoublyLinkedList\\DoublyLinkedList.csproj",
+        "projectPath": "D:\\Git Lab\\Data-structures\\DoublyLinkedList\\DoublyLinkedList.csproj",
         "packagesPath": "C:\\Users\\Vasko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vasko\\source\\repos\\DataStructures\\DoublyLinkedList\\obj\\",
+        "outputPath": "D:\\Git Lab\\Data-structures\\DoublyLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

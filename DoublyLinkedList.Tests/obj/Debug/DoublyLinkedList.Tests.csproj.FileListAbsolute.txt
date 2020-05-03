@@ -1,0 +1,15 @@
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.dll
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojAssemblyReference.cache
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csproj.CopyComplete
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb
