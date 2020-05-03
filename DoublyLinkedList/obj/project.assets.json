@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Node/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Node.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Node.dll": {}
+        }
       }
     }
   },
@@ -171,11 +181,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Node/1.0.0": {
+      "type": "project",
+      "path": "../Node/Node.csproj",
+      "msbuildProject": "../Node/Node.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "Node >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -207,7 +223,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Git Lab\\Data-structures\\Node\\Node.csproj": {
+              "projectPath": "D:\\Git Lab\\Data-structures\\Node\\Node.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,14 +1,30 @@
-﻿using System;
+﻿using Node;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 
 public class DoublyLinkedList<T> : IEnumerable<T>
 {
+    private Node<T> head;
+    private Node<T> tail;
     public int Count { get; private set; }
 
     public void AddFirst(T element)
     {
-        throw new NotImplementedException();
+        var newNode = new Node<T>(element);
+        if (this.Count==0)
+        {
+            this.head = newNode;
+            this.tail = newNode;
+        }
+        else
+        {
+            this.head.Prev = newNode;
+            newNode.Next = this.head;
+            this.head = newNode;
+
+        }
+        this.Count++;
     }
 
     public void AddLast(T element)
@@ -28,7 +44,14 @@ public class DoublyLinkedList<T> : IEnumerable<T>
 
     public void ForEach(Action<T> action)
     {
-        throw new NotImplementedException();
+        var currNode = this.head;
+
+        while (currNode != null)
+        {
+            action(currNode.Value);
+            currNode = currNode.Next;
+            
+        }
     }
 
     public IEnumerator<T> GetEnumerator()

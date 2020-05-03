@@ -13,3 +13,5 @@ D:\Git Lab\Data-structures\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tes
 D:\Git Lab\Data-structures\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csproj.CopyComplete
 D:\Git Lab\Data-structures\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
 D:\Git Lab\Data-structures\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\Node.dll
+D:\Git Lab\Data-structures\DoublyLinkedList.Tests\bin\Debug\Node.pdb

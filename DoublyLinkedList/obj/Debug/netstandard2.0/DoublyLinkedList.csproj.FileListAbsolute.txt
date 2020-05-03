@@ -6,3 +6,6 @@ D:\Git Lab\Data-structures\DoublyLinkedList\obj\Debug\netstandard2.0\DoublyLinke
 D:\Git Lab\Data-structures\DoublyLinkedList\obj\Debug\netstandard2.0\DoublyLinkedList.AssemblyInfo.cs
 D:\Git Lab\Data-structures\DoublyLinkedList\obj\Debug\netstandard2.0\DoublyLinkedList.dll
 D:\Git Lab\Data-structures\DoublyLinkedList\obj\Debug\netstandard2.0\DoublyLinkedList.pdb
+D:\Git Lab\Data-structures\DoublyLinkedList\bin\Debug\netstandard2.0\Node.dll
+D:\Git Lab\Data-structures\DoublyLinkedList\bin\Debug\netstandard2.0\Node.pdb
+D:\Git Lab\Data-structures\DoublyLinkedList\obj\Debug\netstandard2.0\DoublyLinkedList.csproj.CopyComplete

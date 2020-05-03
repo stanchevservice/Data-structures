@@ -1,0 +1,8 @@
+D:\Git Lab\Data-structures\Node\bin\Debug\netstandard2.0\Node.deps.json
+D:\Git Lab\Data-structures\Node\bin\Debug\netstandard2.0\Node.dll
+D:\Git Lab\Data-structures\Node\bin\Debug\netstandard2.0\Node.pdb
+D:\Git Lab\Data-structures\Node\obj\Debug\netstandard2.0\Node.csprojAssemblyReference.cache
+D:\Git Lab\Data-structures\Node\obj\Debug\netstandard2.0\Node.AssemblyInfoInputs.cache
+D:\Git Lab\Data-structures\Node\obj\Debug\netstandard2.0\Node.AssemblyInfo.cs
+D:\Git Lab\Data-structures\Node\obj\Debug\netstandard2.0\Node.dll
+D:\Git Lab\Data-structures\Node\obj\Debug\netstandard2.0\Node.pdb
